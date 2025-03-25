@@ -72,5 +72,7 @@ It is pretty slow to process video data online. Thus, if you have sufficient CPU
 bash train.sh
 ```
 
+## Acknowledgment
+Thanks for the previous excellent works (MAE-DFER *etc.* and datasets incorporated in our project).
 
 
