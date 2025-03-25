@@ -32,7 +32,7 @@ After downloading videos from URLs, please reformat the data to RLT-like storage
 
 ### Video Facial Expression Recognition Datasets
 #### DFEW Dataset
-> Xingxun Jiang, Yuan Zong, Wenming Zheng, Chuangao Tang, Wanchuang Xia, Cheng Lu, and Jiateng Liu. 2020. DFEW: A Large-Scale Database for Recognizing Dynamic Facial Expressions in the Wild. In Proceedings of the 28th ACM International Conference on Multimedia (MM '20). Association for Computing Machinery, New York, NY, USA, 2881�C2889. https://doi.org/10.1145/3394171.3413620
+> Xingxun Jiang, Yuan Zong, Wenming Zheng, Chuangao Tang, Wanchuang Xia, Cheng Lu, and Jiateng Liu. 2020. DFEW: A Large-Scale Database for Recognizing Dynamic Facial Expressions in the Wild. In Proceedings of the 28th ACM International Conference on Multimedia (MM '20). Association for Computing Machinery, New York, NY, USA, 2881–2889. https://doi.org/10.1145/3394171.3413620
 
 Please refer to their official [page](https://dfew-dataset.github.io/) to request data.
 
@@ -43,7 +43,7 @@ Please refer to their official GitHub [Repo](https://github.com/wangyanckxx/FERV
 
 
 #### MAFW Dataset
-> Yuanyuan Liu, Wei Dai, Chuanxu Feng, Wenbin Wang, Guanghao Yin, Jiabei Zeng, and Shiguang Shan. 2022. MAFW: A Large-scale, Multi-modal, Compound Affective Database for Dynamic Facial Expression Recognition in the Wild. In Proceedings of the 30th ACM International Conference on Multimedia (MM '22). Association for Computing Machinery, New York, NY, USA, 24�C32. https://doi.org/10.1145/3503161.3548190
+> Yuanyuan Liu, Wei Dai, Chuanxu Feng, Wenbin Wang, Guanghao Yin, Jiabei Zeng, and Shiguang Shan. 2022. MAFW: A Large-scale, Multi-modal, Compound Affective Database for Dynamic Facial Expression Recognition in the Wild. In Proceedings of the 30th ACM International Conference on Multimedia (MM '22). Association for Computing Machinery, New York, NY, USA, 24–32. https://doi.org/10.1145/3503161.3548190
 
 
 Please refer to their official GitHub [Repo](https://github.com/MAFW-database/MAFW) to request data.
